@@ -1,1 +1,1 @@
-This is a simple mini project which is based on the architect website.
+This is a simple mini project on the architect website.
